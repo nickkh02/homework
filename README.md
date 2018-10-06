@@ -19,7 +19,7 @@
 №|Описание|Ссылка на работу
 ---|:---:|:---
 1|Домашнее задание №0|[Код](https://github.com/nickkh02/homework/blob/master/README.md)
-2|Домашнее задание №1|Код
+2|Домашнее задание №1|[Код](https://github.com/nickkh02/python-dh-hw/blob/master/HW1.ipynb)
 3|не знаю|
 4|да|
 5|не знаю|
