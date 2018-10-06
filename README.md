@@ -10,7 +10,7 @@
 2. История полиции и полициирования
 3. Digital Humanities 
 
-!["Come out to the coast, we'll get together, have a few laughs..."](http://atomicjunkshop.com/wp-content/uploads/2016/12/die-hard-ventilation-shaft.jpg)
+![](http://atomicjunkshop.com/wp-content/uploads/2016/12/die-hard-ventilation-shaft.jpg "Come out to the coast, we'll get together, have a few laughs...")
 
 ---
 
