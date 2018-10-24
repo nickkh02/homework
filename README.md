@@ -18,5 +18,5 @@
 ---|:---:|:---
 1|Домашнее задание №0|[Код](https://github.com/nickkh02/homework/blob/master/README.md)
 2|Домашнее задание №1|[Код](https://github.com/nickkh02/python-dh-hw/blob/master/HW1.ipynb)
-3|Домашнее задание №2|[Код]
-
+3|Домашнее задание №2|[Код](https://github.com/nickkh02/python-dh-hw/blob/master/HW2.ipynb)
+4|Домашнее задание №3|[Код]
